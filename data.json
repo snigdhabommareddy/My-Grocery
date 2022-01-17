@@ -1,0 +1,1402 @@
+[
+    {
+        "id": 1,
+        "name": "Aashirvaad Superior MP Atta",
+        "category_id": 1,
+        "category":"Grocery",
+        "img": "https://i.ibb.co/25m8XTs/asirvad.jpg",
+        "description": "Aashirvaad Superior MP Atta is made using the 4-step advantage process which ensures 100% pure and natural whole wheat atta and retention of its natural dietary fibres and nutrients",
+        "price": 460,
+        "rating":4.9
+    },
+    {
+        "id": 2,
+        "name": "Organic Tattva - Organic Chana (Bengalgram) Dal 2 KG | 100% Vegan, Gluten Free and No Additives | Rich in Protein and Nutrition",
+        "category_id": 1,
+        "category":"Grocery",
+        "img": "https://i.ibb.co/FBf5t78/bengalgram.jpg",
+        "description": "✔ Grown without synthetic Pesticides and without synthetic GMOs,Unpolished: Does not undergo any artificial polishing with water, oil or leather thereby retaining its goodness and wholesomeness",
+        "price": 670,
+        "rating":4.6
+    },
+    {
+        "id": 3,
+        "name": "Tata Sampann 100% Chana Dal Fine Besan, 1kg",
+        "category_id": 1,
+        "category":"Grocery",
+        "img": "https://i.ibb.co/TWSnYRh/besan.jpg",
+        "description": "It can be used to prepare some delicious Dhokla, Kadhi, Fafda, Sev and other namkeens Has a very high protein content",
+        "price": 118,
+        "rating":4.9
+    },
+    {
+        "id": 4,
+        "name": "Bru Instant Coffee Pouch",
+        "category_id": 1,
+        "category":"Grocery",
+        "img": "https://i.ibb.co/vjqp7sK/bru.jpg",
+        "description": "Bru Instant Coffee is a perfect mix of 70% coffee and 30% chicory,Blend of choicest Arabica and Robusta beans roasted to perfection",
+        "price": 120,
+        "rating":4.3
+    },
+    {
+        "id": 5,
+        "name": "Tata Sampann Chana Dal 1 Kg - Organic Healthy Pulses",
+        "category_id": 1,
+        "category":"Grocery",
+        "img": "https://i.ibb.co/yRZt06x/chanadal.jpg",
+        "description": "Organic Chana Dal. Eat Natural Live Healthy.Daily Need Products For A Healthy And Energetic Life.Chana dal is high in fiber and help to lower cholesterol. Apart from having a great taste",
+        "price": 157,
+        "rating":4.2
+    },
+    {
+        "id": 6,
+        "name": "Ahaar Maize Flour (Makki Atta, Corn Flour), 1kg",
+        "category_id": 1,
+        "category":"Grocery",
+        "img":"https://i.ibb.co/cCKSN2M/cornflour.jpg",
+        "description": "Rich in protein, dietary fiber and very low in fat.Ahaar makka atta is made from hand picked, fine quality farm maize",
+        "price": 85,
+        "rating":4.6
+    },
+    {
+        "id": 7,
+        "name": "Fortune Chakki Fresh Atta, 10 kg",
+        "category_id": 1,
+        "category":"Grocery",
+        "img":"https://i.ibb.co/9snHVqR/fortune.jpg",
+        "description": "Absorbs water more efficiently to make your rotis soft and fluffy Intensive wheat cleaning process and hygienic packaging High perfection in granulation",
+        "price": 450,
+        "rating":4.5
+    },
+    {
+        "id": 8,
+        "name": "Freedom Refined Sunflower Oil, 1L",
+        "category_id": 1,
+        "category":"Grocery",
+        "img":"https://i.ibb.co/vxHF20G/freedom-oil.jpg",
+        "description": "Light and healthy that is easy to digest.Rich in vitamins, which keeps skin healthy",
+        "price": 120,
+        "rating":3.8
+    },
+    {
+        "id": 9,
+        "name": "Freedom Refined Groundnut Oil Pouch, 1L",
+        "category_id": 1,
+        "category":"Grocery",
+        "img":"https://i.ibb.co/3vNDtgK/groundnutoil.jpg",
+        "description": "Low absorb technology,Vitamin A and D2,Natural PUFA",
+        "price": 150,
+        "rating":4.4
+    },
+    {
+        "id": 10,
+        "name": "Organic Raw Peanut, 1kg",
+        "category_id": 1,
+        "category":"Grocery",
+        "img":"https://i.ibb.co/g6DmLVN/grountnunt.jpg",
+        "description": "Excellent protein source,Can be roasted or boiled",
+        "price":270,
+        "rating":4.1
+    },
+    {
+        "id": 11,
+        "name": "Organic Idly Rava| Pack of 1 | Chemical Free & Pesticides Free |",
+        "category_id": 1,
+        "category":"Grocery",
+        "img":"https://i.ibb.co/19YV8rr/idliravva.jpg",
+        "description": "Wholesome and pesticide free.Use rice idly rava from organic to achieve those perfect, puffy idlis",
+        "price":100,
+        "rating":4.7
+    },
+    {
+        "id": 12,
+        "name": "Organic Jaggery Powder",
+        "category_id": 1,
+        "category":"Grocery",
+        "img":"https://i.ibb.co/WyvN95N/jaggery.jpg",
+        "description": "100 % Vegan | Certified Organic | Gluten Free | NO Additives | Unadulterated",
+        "price":150,
+        "rating":4.2
+    },
+    {
+        "id": 13,
+        "name": "Maggi 2-Minute Instant Noodles - Masala, 140g",
+        "category_id": 1,
+        "category":"Grocery",
+        "img":"https://i.ibb.co/QnRBYxQ/maggie.jpg",
+        "description": "MAGGI 2-min Noodles with your favourite masala taste! MAGGI Masala Noodles is made with the choicest quality spices and ingredients for the taste your heart loves",
+        "price":100,
+        "rating":3.9
+    },
+    {
+        "id": 14,
+        "name": "Refined Fresh Pure and Tasty Wheat Flour Maida,1 kg",
+        "category_id": 1,
+        "category":"Grocery",
+        "img":"https://i.ibb.co/k0VZJBj/maida.jpg",
+        "description": "Machine packed,Transparent window to view product,Intuitive packaging",
+        "price":185,
+        "rating":4.0
+    },
+    {
+        "id": 15,
+        "name": "Organics Malka Masoor Dal / Red Masoor Dal 1 Kg",
+        "category_id": 1,
+        "category":"Grocery",
+        "img":"https://i.ibb.co/17m33XK/masoor-dal.jpg",
+        "description": "Masoor Dal contain high levels of protein, including essential amino acids isoleucine and lysineand are an essential source of inexpensive protein diet",
+        "price":180,
+        "rating":4.4
+    },
+    {
+        "id": 16,
+        "name": " Unpolished Green Moong Dal, Whole, 500g",
+        "category_id": 1,
+        "category":"Grocery",
+        "img":"https://i.ibb.co/p4yq0K5/moondal.jpg",
+        "description": "Moong dal is consumed mostly as a Summer dal as it is lighter and easier to digest",
+        "price":130,
+        "rating":4.9
+    },
+    {
+        "id": 17,
+        "name": "Red Gram (Split) 1kg",
+        "category_id": 1,
+        "category":"Grocery",
+        "img":"https://i.ibb.co/HCGP0pp/redgram.jpg",
+        "description": "Protein rich,No cholesterol, additives or impurities,Unpolished grains",
+        "price":180,
+        "rating":5.0
+    },
+    {
+        "id": 18,
+        "name": "Organic Rice Flour, 500g",
+        "category_id": 1,
+        "category":"Grocery",
+        "img":"https://i.ibb.co/rd8wbWn/rice-flour.jpg",
+        "description": "100 % Organic,Grown without synthetic Pesticides,Grown without synthetic GMOs",
+        "price":70,
+        "rating":4.5
+    },
+    {
+        "id": 19,
+        "name": "India Gate Basmati Rice, Rozana, 5kg",
+        "category_id": 1,
+        "category":"Grocery",
+        "img":"https://i.ibb.co/jJkb7ks/rice.jpg",
+        "description": "South,India Gate Basmati Rice",
+        "price":725,
+        "rating":4.3
+    },
+    {
+        "id": 20,
+        "name": "Whole Sabudana (Tapioca Pearls/Sago) - [Premium & 100% Natural] - 400g",
+        "category_id": 1,
+        "category":"Grocery",
+        "img":"https://i.ibb.co/ThpBTpZ/sabudana.jpg",
+        "description": "400 grams of Markstor Sabudana (Sago, Tapioca) is non-GMO, gluten-free, sourced from trusted growers and suppliers throughout the year to ensure that authentic and fresh produce reaches you.",
+        "price":190,
+        "rating":4.9
+    },
+    {
+        "id": 21,
+        "name": "Tata Salt Lite, 15% Low Sodium Iodised Salt, 1kg",
+        "category_id": 1,
+        "category":"Grocery",
+        "img":"https://i.ibb.co/TLgLZT6/salt.jpg",
+        "description": "Active Health Management with Tata Salt Lite,15% Low Sodium: Tata Salt has 15% lesser sodium compared to regular iodized salt",
+        "price":70,
+        "rating":4.7
+    },{
+        "id": 22,
+        "name": "Fresh / Natural White Sesame Seeds (Unhulled) | White Til | Tal | Indian Spices (400 g)",
+        "category_id": 1,
+        "category":"Grocery",
+        "img":"https://i.ibb.co/PcV8zf8/sesame.jpg",
+        "description": "Sesame has one of the highest oil contents of any seed. With a rich, nutty flavor, it is a common ingredient in cuisines across the world. Like other nuts and foods, it can trigger allergic reactions in some people.",
+        "price":180,
+        "rating":3.7
+    },
+    {
+        "id": 23,
+        "name": "White Suji, Sooji, Rawa, Rava, Semolina Flour, Pure and Premium - 1 KG",
+        "category_id": 1,
+        "category":"Grocery",
+        "img":"https://i.ibb.co/PZgMqb2/sooji.jpg",
+        "description": "PREMIUM QUALITY:- White Suji by Organic Shastra is made from premium grade of selected wheat grains by processing in a way so that only the core of wheat is pounded to make rawa/suji. Made from premium grade of selected wheat grains to ensure maximum health benefit.",
+        "price":110,
+        "rating":4.6
+    },
+    {
+        "id": 24,
+        "name": "Madhur Pure and Hygienic Sugar, 1kg Bag",
+        "category_id": 1,
+        "category":"Grocery",
+        "img":"https://i.ibb.co/ZGZrvrh/suagr.jpg",
+        "description": "Made from superior quality sugarcane,Refined, sparkling white and easy to dissolve sugar crystals",
+        "price":130,
+        "rating":5.0
+    },
+    {
+        "id": 25,
+        "name": "Taj Mahal South Tea 500 g Pack, Rich and Flavourful Chai - Premium Blend of Powdered Fresh Loose Tea Leaves",
+        "category_id": 1,
+        "category":"Grocery",
+        "img":"https://i.ibb.co/C8Jf8LK/taj.jpg",
+        "description": "Taj Mahal Teas are Tasted, graded and perfectly blended at the Brooke bond Tea Excellence Centre",
+        "price":385,
+        "rating":4.8
+    },
+    {
+        "id": 26,
+        "name": "Red Label Natural Care Tea, 500 g",
+        "category_id": 1,
+        "category":"Grocery",
+        "img":"https://i.ibb.co/8DnnxP4/tea.jpg",
+        "description": "Red Label natural care contains cardamom which helps in digestion",
+        "price":295,
+        "rating":3.9
+    },
+    {
+        "id": 27,
+        "name": "Tata Sampann Unpolished Urad Whole Dal, 1kg",
+        "category_id": 1,
+        "category":"Grocery",
+        "img":"https://i.ibb.co/g7HvxM1/uraddal.jpg",
+        "description": "Tata Sampann Dals are delicious in taste,Rich in Nutrients: Urad Whole Dal is naturally rich in protein and high in dietary fibre",
+        "price":185,
+        "rating":4.8
+    },
+    {
+        "id": 28,
+        "name": "Organic Vermicelli, 0% Maida, 100% Wholewheat, 400 g",
+        "category_id": 1,
+        "category":"Grocery",
+        "img":"https://i.ibb.co/SQKQXmF/vermicilli.jpg",
+        "description": "Made from 100% organic whole wheat flour,Enjoy guilt free & nutrient packed meal, rich in protein & fibre",
+        "price":60,
+        "rating":4.7
+    },
+    {
+        "id": 29,
+        "name": "Organics Whole Wheat Flour 5 Kg - Organic Wheat Flour",
+        "category_id": 1,
+        "category":"Grocery",
+        "img":"https://i.ibb.co/j6ByhPp/wheat-ravva.jpg",
+        "description": "Organic Whole Wheat Flour. Eat Natural Live Healthy 🌿.Daily Need Products For A Healthy And Energetic Life.",
+        "price":265,
+        "rating":4.9
+    },
+    {
+        "id": 30,
+        "name": "100% Natural Premium Californian Almonds,Dried,1kg",
+        "category_id": 2,
+        "category":"Dryfruits",
+        "img":"https://i.ibb.co/9gts9R9/dryfruits.jpg",
+        "description": "High protein, dietary fiber, no gluten, no GMO, zero trans fat, zero cholesterol Rich source of omega-3, anti oxidants and vitamins, calcium, iron and magnesium",
+        "price":1000,
+        "rating":4.6
+    },
+    {
+        "id": 31,
+        "name": "Premium Afghani Anjeer,Dried,200g",
+        "category_id": 2,
+        "category":"Dryfruits",
+        "img":"https://i.ibb.co/WypPvhg/anjeer.jpg",
+        "description": "Rich source of fibre calcium and iron,They contains zero trans fat and zero cholesterol",
+        "price":273,
+        "rating":4.7
+    },
+    {
+        "id":32,
+        "name": "Black Seedless Premium Raisins, - 1kg | Kala Kishmish | Kismis",
+        "category_id": 2,
+        "category":"Dryfruits",
+        "img":"https://i.ibb.co/xFZgW2L/blackraisins.jpg",
+        "description": " Black Raisins seedless | Kismis | Kaali Drakh - 1 kg | best Quality Indian Dry fruit; Raisin are Natural Sun Dried; Fresh, Bigger in size; Nutritious; Tasty and Healthy; Made from Fresh Crop Season Grape",
+        "price":455,
+        "rating":4.5
+    },
+    {
+        "id":33,
+        "name": "Cashew Nuts 800gms",
+        "category_id": 2,
+        "category":"Dryfruits",
+        "img":"https://i.ibb.co/xXHMwxs/cahew.jpg",
+        "description": "100% NATURAL PLAIN W450 CASHEW NUTS: Handpicked premium, big sized, fresh, crunchy, raw cashew Nuts.",
+        "price":700,
+        "rating":4.8
+    },
+    {
+        "id":34,
+        "name": "Premium International Healthy Dried Nutmix",
+        "category_id": 2,
+        "category":"Dryfruits",
+        "img":"https://i.ibb.co/Dtm3Tnc/mixed-dryfruits.jpg",
+        "description": "Healthy nuts and dried fruits, Good for an active lifestyle Improves digestion, immunity, mental health, stop urinary tract infections",
+        "price":900,
+        "rating":4.9
+    },
+    {
+        "id":35,
+        "name": "Californian Roasted & Salted Pistachios Value Pack Pouch",
+        "category_id": 2,
+        "category":"Dryfruits",
+        "img":"https://i.ibb.co/vJ5BqhJ/pista.jpg",
+        "description": "Good for an active lifestyle perfect for healthy snacking.Healthy source of antioxidants, Vitamins, Minerals & Iron.",
+        "price":700,
+        "rating":5.0
+    },
+    {
+        "id": 36,
+        "name": "Raw Pumpkin Seeds Protein and Fiber Rich Superfood ",
+        "category_id": 2,
+        "category":"Dryfruits",
+        "img":"https://i.ibb.co/KD2qZsT/pumpkin-seeds.jpg",
+        "description": "Certified Quality: neuherbs pumpkin seeds are raw and unroasted.",
+        "price":170,
+        "rating":4.8
+    },
+    {
+        "id":37,
+        "name": "100% Pure Premium Raisins Seedless, 200g",
+        "category_id": 2,
+        "category":"Dryfruits",
+        "img":"https://i.ibb.co/XZpWjTX/raisins.jpg",
+        "description": "100% PURE PREMIUM RAISINS: Choicest selection, hanpicked raisins in every pack",
+        "price":100,
+        "rating":4.8
+    },
+    {
+        "id":38,
+        "name": "Walnuts Kernels Premium,200g,Raw",
+        "category_id": 2,
+        "category":"Dryfruits",
+        "img":"https://i.ibb.co/pwNJh97/walnuts.jpg",
+        "description": "Rich source of energy as it has got all the minerals, nutrients, antioxidants & vitamin.Rich in beneficial nutrients",
+        "price":315,
+        "rating":4.6
+    },
+    {
+        "id": 39,
+        "name": "Apples 1kg",
+        "category_id": 3,
+        "category":"Fruits",
+        "img":"https://i.ibb.co/QmXLTkN/apples.jpg",
+        "description": "Fruits are Good to health,Eating fruits regulary will keeps your health Good",
+        "price":250,
+        "rating":4.6
+    },
+    {
+        "id": 40,
+        "name": "Banana",
+        "category_id": 3,
+        "category":"Fruits",
+        "img":"https://i.ibb.co/Y2vgDkj/banana.jpg",
+        "description": "Fruits are Good to health,Eating fruits regulary will keeps your health Good",
+        "price":100,
+        "rating":4.5
+    },
+    {
+        "id": 41,
+        "name": "Blackberries",
+        "category_id": 3,
+        "category":"Fruits",
+        "img":"https://i.ibb.co/kS3DwDY/blackberries.jpg",
+        "description": "Fruits are Good to health,Eating fruits regulary will keeps your health Good",
+        "price":300,
+        "rating":4.7
+    },
+    {
+        "id": 42,
+        "name": "Blackgrapes",
+        "category_id": 3,
+        "category":"Fruits",
+        "img":"https://i.ibb.co/Lt4MLCV/blackgrapes.jpg",
+        "description": "Fruits are Good to health,Eating fruits regulary will keeps your health Good",
+        "price":120,
+        "rating":4.2
+    },
+    {
+        "id": 43,
+        "name": "Blueberries",
+        "category_id": 3,
+        "category":"Fruits",
+        "img":"https://i.ibb.co/56GWG8v/blueberries.jpg",
+        "description": "Fruits are Good to health,Eating fruits regulary will keeps your health Good",
+        "price":200,
+        "rating":3.7
+    },
+    {
+        "id": 44,
+        "name": "Cherries",
+        "category_id": 3,
+        "category":"Fruits",
+        "img":"https://i.ibb.co/DtsTbg3/cherries.jpg",
+        "description": "Fruits are Good to health,Eating fruits regulary will keeps your health Good",
+        "price":320,
+        "rating":4.7
+    },
+    {
+        "id":45,
+        "name": "Custard Apple",
+        "category_id": 3,
+        "category":"Fruits",
+        "img":"https://i.ibb.co/nP6fSnh/custard-apple.jpg",
+        "description": "Fruits are Good to health,Eating fruits regulary will keeps your health Good",
+        "price":200,
+        "rating":4.7
+    },
+    {
+        "id":46,
+        "name": "Grapes",
+        "category_id": 3,
+        "category":"Fruits",
+        "img":"https://i.ibb.co/Fwmv5sv/grape.jpg",
+        "description": "Fruits are Good to health,Eating fruits regulary will keeps your health Good",
+        "price":150,
+        "rating":4.1
+    },
+    {
+        "id":47,
+        "name": "Guava",
+        "category_id": 3,
+        "category":"Fruits",
+        "img":"https://i.ibb.co/BTsPWYB/guava.jpg",
+        "description": "Fruits are Good to health,Eating fruits regulary will keeps your health Good",
+        "price":100,
+        "rating":4.9
+    },
+    {
+        "id":48 ,
+        "name": "Jackfruit",
+        "category_id": 3,
+        "category":"Fruits",
+        "img":"https://i.ibb.co/WKL35qD/jackfruit.jpg",
+        "description": "Fruits are Good to health,Eating fruits regulary will keeps your health Good",
+        "price":400,
+        "rating":3.6
+    },
+    {
+        "id":49,
+        "name": "Kalajamun",
+        "category_id": 3,
+        "category":"Fruits",
+        "img":"https://i.ibb.co/Lv0DrnQ/kalajamun.jpg",
+        "description": "Fruits are Good to health,Eating fruits regulary will keeps your health Good",
+        "price":200,
+        "rating":4.7
+    },
+    {
+        "id":50,
+        "name": "Kiwi",
+        "category_id": 3,
+        "category":"Fruits",
+        "img":"https://i.ibb.co/82fJVgZ/kiwi.jpg",
+        "description": "Fruits are Good to health,Eating fruits regulary will keeps your health Good",
+        "price":400,
+        "rating":4.6
+    },
+    {
+        "id":51,
+        "name": "Mango",
+        "category_id": 3,
+        "category":"Fruits",
+        "img":"https://i.ibb.co/9N1dJjT/mango.jpg",
+        "description": "Fruits are Good to health,Eating fruits regulary will keeps your health Good",
+        "price":250,
+        "rating":4.7
+    },
+    {
+        "id":52,
+        "name": "Muskmelon",
+        "category_id": 3,
+        "category":"Fruits",
+        "img":"https://i.ibb.co/VQMd3Y3/muskmelon.jpg",
+        "description": "Fruits are Good to health,Eating fruits regulary will keeps your health Good",
+        "price":230,
+        "rating":4.6
+    },
+    {
+        "id": 53,
+        "name": "Orange",
+        "category_id": 3,
+        "category":"Fruits",
+        "img":"https://i.ibb.co/JBcrYGF/orange.jpg",
+        "description": "Fruits are Good to health,Eating fruits regulary will keeps your health Good",
+        "price":350,
+        "rating":4.3
+    },
+    {
+        "id": 54,
+        "name": "Pineapple",
+        "category_id": 3,
+        "category":"Fruits",
+        "img":"https://i.ibb.co/G5KZfWq/pineaple.jpg",
+        "description": "Fruits are Good to health,Eating fruits regulary will keeps your health Good",
+        "price":180,
+        "rating":4.1
+    },
+    {
+        "id":55,
+        "name": "Plum",
+        "category_id": 3,
+        "category":"Fruits",
+        "img":"https://i.ibb.co/WysqRm3/plum.jpg",
+        "description": "Fruits are Good to health,Eating fruits regulary will keeps your health Good",
+        "price":400,
+        "rating":4.6
+    },
+    {
+        "id":56,
+        "name": "Sapota",
+        "category_id": 3,
+        "category":"Fruits",
+        "img":"https://i.ibb.co/JFxNwCD/sapota.jpg",
+        "description": "Fruits are Good to health,Eating fruits regulary will keeps your health Good",
+        "price":290,
+        "rating":3.7
+    },
+    {
+        "id":57 ,
+        "name": "Watermelon",
+        "category_id": 3,
+        "category":"Fruits",
+        "img":"https://i.ibb.co/1qC67tc/watermelon.jpg",
+        "description": "Fruits are Good to health,Eating fruits regulary will keeps your health Good",
+        "price":300,
+        "rating":4.3
+    },
+    {
+        "id":58,
+        "name": "Chicken",
+        "category_id": 4,
+        "category":"NonVeg",
+        "img":"https://i.ibb.co/GRF2rD1/chicken.jpg",
+        "description": "Chicken is Good to health,Eating chicken regulary will keeps your health Good and protien healthy",
+        "price":300,
+        "rating":4.7
+    },
+    {
+        "id": 59,
+        "name": "Eggs",
+        "category_id": 4,
+        "category":"NonVeg",
+        "img":"https://i.ibb.co/7yPmMJb/eggs.jpg",
+        "description": "Eggs are Good to health,Eating eggs regulary will keeps your health Good and protien healthy",
+        "price":100,
+        "rating":5.0
+    },
+    {
+        "id":60,
+        "name": "Fish",
+        "category_id": 4,
+        "category":"NonVeg",
+        "img":"https://i.ibb.co/DkhS88M/fish.jpg",
+        "description": "Fish is Good to health,Eating Fish regulary will keeps your health Good and protien healthy",
+        "price":300,
+        "rating":5.0
+    },
+    {
+        "id": 61,
+        "name": "Mutton",
+        "category_id": 4,
+        "category":"NonVeg",
+        "img":"https://i.ibb.co/vVRpqtD/mutton.jpg",
+        "description": "Meat is Good to health,Eating Meat regulary will keeps your health Good and protien healthy",
+        "price":600,
+        "rating":4.6
+    },
+    {
+        "id": 62,
+        "name": "Prawns",
+        "category_id": 4,
+        "category":"NonVeg",
+        "img":"https://i.ibb.co/k9j7vFk/prawns.jpg",
+        "description": "Meat is Good to health,Eating Meat regulary will keeps your health Good and protien healthy",
+        "price":400,
+        "rating":4.8
+    },
+    {
+        "id":63 ,
+        "name": "Butter",
+        "category_id": 5,
+        "category":"Milk",
+        "img":"https://i.ibb.co/5xZw2kD/butter.jpg",
+        "description": "Butter is Good to health,Eating Butter regulary will keeps your health Good and protien healthy",
+        "price":360,
+        "rating":4.6
+    },
+    {
+        "id":64 ,
+        "name": "Buttermilk",
+        "category_id": 5,
+        "category":"Milk",
+        "img":"https://i.ibb.co/hy0xPb1/buttermilk.jpg",
+        "description": "ButterMilk is Good to health,Eating Buttermilk regulary will keeps your health Good and protien healthy",
+        "price":20,
+        "rating":4.2
+    },
+    {
+        "id": 65,
+        "name": "Cheese",
+        "category_id": 5,
+        "category":"Milk",
+        "img":"https://i.ibb.co/pdqVnVh/cheese.jpg",
+        "description": "Cheese is Good to health,Eating Cheese regulary will keeps your health Good and protien healthy",
+        "price":200,
+        "rating":3.7
+    },
+    {
+        "id": 66,
+        "name": "Curd",
+        "category_id": 5,
+        "category":"Milk",
+        "img":"https://i.ibb.co/CnNCxj2/curd.jpg",
+        "description": "Curd is Good to health,Eating Curd regulary will keeps your health Good and protien healthy",
+        "price":50,
+        "rating":4.6
+    },
+    {
+        "id":67,
+        "name": "Ghee",
+        "category_id": 5,
+        "category":"Milk",
+        "img":"https://i.ibb.co/jWpn2k9/ghee.jpg",
+        "description": "Ghee is Good to health,Eating Ghee regulary will keeps your health Good and protien healthy",
+        "price":320,
+        "rating":4.7
+    },
+    {
+        "id":68,
+        "name": "MilkPowder",
+        "category_id": 5,
+        "category":"Milk",
+        "img":"https://i.ibb.co/Rvwzhhy/milkpowder.jpg",
+        "description": "Nestle everyday is a tea enhancer that mixes in completely with your tea to lift its taste",
+        "price":250,
+        "rating":3.6
+    },
+    {
+        "id":69 ,
+        "name": "Milk",
+        "category_id": 5,
+        "category":"Milk",
+        "img":"https://i.ibb.co/d0Yb1Vj/milks.jpg",
+        "description": "Milk is Good to health,Eating Milk regulary will keeps your health Good and protien healthy",
+        "price":70,
+        "rating":5.0
+    },
+    {
+        "id": 70,
+        "name": "Paneer",
+        "category_id": 5,
+        "category":"Milk",
+        "img":"https://i.ibb.co/TbDRqnt/panner.jpg",
+        "description": "Paneer is Good to health,Eating Paneer regulary will keeps your health Good and protien healthy",
+        "price":380,
+        "rating":4.6
+    },
+    {
+        "id":71 ,
+        "name": "Organic Bay Leaf Whole - Tej Patta Dried bay leaves Indian Spices (100 Gm)",
+        "category_id": 6,
+        "category":"Spices",
+        "img":"https://i.ibb.co/GVssmxf/bayleaf.jpg",
+        "description": "ORGANIC BAY LEAVES Unlike some other spices that have artificial colors and preservatives, our cumin powder is 100% Natural, Non-GMO, No Preservatives, Vegan, Gluten Free, hand harvested from the bay tree produces broad, smooth leaves commonly referred to as a bay leaf, beautifully packed to preserve the freshness and taste, delivered right to your door.",
+        "price":300,
+        "rating":4.3
+    },
+    {
+        "id":72,
+        "name": "Elite Aroma, Whole Cardamom Green Big 8mm Bold Bolt, 100g",
+        "category_id": 6,
+        "category":"Spices",
+        "img":"https://i.ibb.co/K0Gv36T/cardomom.jpg",
+        "description": "Green and Whole, fresh from farm ,No artificial colours and preservatives",
+        "price":400,
+        "rating":4.6
+    },
+    {
+        "id":73,
+        "name": "Aashirvaad South Chilli Powder, 500g",
+        "category_id": 6,
+        "category":"Spices",
+        "img":"https://i.ibb.co/8YJq6Yn/chilli-powder.jpg",
+        "description": "Perfectly balanced in color and taste.To bring you Aashirvaad Chilli Powder, we select chilli the traditional way",
+        "price":150,
+        "rating":4.7
+    },
+    {
+        "id": 74,
+        "name": "Cinnamon Sticks - 100 Gm - 100% Organic Dalchini Sticks - ( NO PRSERVATIVES & PESTICIDES ) Cinnamon Whole Spices",
+        "category_id": 6,
+        "category":"Spices",
+        "img":"https://i.ibb.co/RCb6X6B/cinnamon.jpg",
+        "description": "cinnamon sticks are not only hailed for their delectable taste but also titled as a superfood owing to a large number of health benefits they provide. They are full of vital nutrients as well. Ceylon Cinnamon sticks are known to aid in weight loss, help control acne, and decrease inflammation. These delectable sticks are excellent source of antioxidants that are deemed to reduce oxidative stress and deter aging.",
+        "price":180,
+        "rating":4.8
+    },
+    {
+        "id":75 ,
+        "name": "Spices Whole Clove /Special Laung ,100g",
+        "category_id": 6,
+        "category":"Spices",
+        "img":"https://i.ibb.co/zFp41W3/cloves.jpg",
+        "description": "Our Clove is better than Other cloves as it has strong Taste and Right aroma. We provide with High Quality Clove only.",
+        "price":110,
+        "rating":5.0
+    },
+    {
+        "id": 76,
+        "name": "Fennel Seeds Whole ( Sabut Saunf | Variyali ) Small | Edible Sonf | Aniseed Whole | Cooking | Weight Loss - 100g Brand: Org",
+        "category_id": 6,
+        "category":"Spices",
+        "img":"https://i.ibb.co/zbtsqZD/fennel-seeds.jpg",
+        "description": "Grown using sustainable and natural techniques like manual seeding, manual weeding, green composting, transplantation.",
+        "price":55,
+        "rating":4.5
+    },
+    {
+        "id": 77,
+        "name": "Organics -100 Gm - Kerala Mace/Javitri/Japatri Flower Whole spices [Organically Grown]",
+        "category_id": 6,
+        "category":"Spices",
+        "img":"https://i.ibb.co/VQrsf4v/japatri.jpg",
+        "description": "Benefits in cold, cough and asthma. Useful in dry cough as well.",
+        "price":300,
+        "rating":5.0
+    },
+    {
+        "id": 78,
+        "name": "Organics Cumin Whole / Jeera 250 Gm - Organic Healthy Spices",
+        "category_id": 6,
+        "category":"Spices",
+        "img":"https://i.ibb.co/c3MsQnS/jeera.jpg",
+        "description": "Organic Cumin Whole. Eat Natural Live Healthy 🌿.Daily Need Products For A Healthy And Energetic Life.",
+        "price":150,
+        "rating":4.2
+    },
+    {
+        "id": 79,
+        "name": "Natural Fresh Kapok Buds Kerala - 100 gm",
+        "category_id": 6,
+        "category":"Spices",
+        "img":"https://i.ibb.co/8zFw0R3/kapokbuds.jpg",
+        "description": "PREMIUM VARIETY - Finest grade Kapok Buds (Marathi Moggu) from the tropical region of southern Kerala. It is 100% natural, unprocessed and highly fragrant.",
+        "price":90,
+        "rating":4.8
+    },
+    {
+        "id":80,
+        "name": "Nutmeg Jayfal - 100 grams by Spices Malabari",
+        "category_id": 6,
+        "category":"Spices",
+        "img":"https://i.ibb.co/BL6Yk1w/nutmeg.jpg",
+        "description": "Distinctive pungent fragrance Warm with a slight spicy & sweet taste Sourced from Kerala",
+        "price":160,
+        "rating":3.8
+    },
+    {
+        "id": 81,
+        "name": "Black Pepper Whole Wayanad Specialty Jumbo Peppercorns 5mm Export Quality 100g",
+        "category_id": 6,
+        "category":"Spices",
+        "img":"https://i.ibb.co/PDS4QHt/pepeer.jpg",
+        "description": "High Piperine,Chemical-free",
+        "price":150,
+        "rating":4.7
+    },
+    {
+        "id": 82,
+        "name": "Kerala Spice Shahjeera Caraway Seeds Natural Jeera Baje (200 grams)",
+        "category_id": 6,
+        "category":"Spices",
+        "img":"https://i.ibb.co/2FBWm71/shahjeera.jpg",
+        "description": "High quality caraway seeds.It helps in digestion",
+        "price":190,
+        "rating":4.6
+    },
+    {
+        "id": 83,
+        "name": "Asian Star Anise (Chakri Phool), 100g (Premium Quality, Highly Aromatic, Imported from Vietnam)",
+        "category_id": 6,
+        "category":"Spices",
+        "img":"https://i.ibb.co/zfsSDWZ/staranise.jpg",
+        "description": "An exotic, fragrant spice from Vietnam. Known for it's wonderful aroma and delicate liquorice-like flavour.",
+        "price":345,
+        "rating":5.0
+    },
+    {
+        "id":84,
+        "name": "Turmeric Powder, 200g",
+        "category_id": 6,
+        "category":"Spices",
+        "img":"https://i.ibb.co/dtYCFfm/turmeric-powder.jpg",
+        "description": "",
+        "price":40,
+        "rating":4.7
+    },
+    {
+        "id":85 ,
+        "name": "French Beans",
+        "category_id": 7,
+        "category":"Vegetables",
+        "img":"https://i.ibb.co/3cCt3TC/beans.jpg",
+        "description": "vegetables are very Good to health.Eating vegetables daily keeps your body balanced",
+        "price":200,
+        "rating":3.6
+    },
+    {
+        "id":86,
+        "name": "Beetroot",
+        "category_id": 7,
+        "category":"Vegetables",
+        "img":"https://i.ibb.co/4McPLMW/beetroot.jpg",
+        "description": "vegetables are very Good to health.Eating vegetables daily keeps your body balanced",
+        "price":150,
+        "rating":4.8
+    },
+    {
+        "id":87 ,
+        "name": "BottleGourd",
+        "category_id": 7,
+        "category":"Vegetables",
+        "img":"https://i.ibb.co/kMMtBYv/bootleourd.jpg",
+        "description": "vegetables are very Good to health.Eating vegetables daily keeps your body balanced",
+        "price":120,
+        "rating":4.8
+    },
+    {
+        "id": 88,
+        "name": "Brinjal",
+        "category_id": 7,
+        "category":"Vegetables",
+        "img":"https://i.ibb.co/23x5RLb/brinjal.jpg",
+        "description": "vegetables are very Good to health.Eating vegetables daily keeps your body balanced",
+        "price":60,
+        "rating":4.2
+    },
+    {
+        "id":89 ,
+        "name": "Capsicum",
+        "category_id": 7,
+        "category":"Vegetables",
+        "img":"https://i.ibb.co/ccybvWY/capsicum.jpg",
+        "description": "vegetables are very Good to health.Eating vegetables daily keeps your body balanced",
+        "price":70,
+        "rating":4.9
+    },
+    {
+        "id": 90,
+        "name": "Carrot",
+        "category_id": 7,
+        "category":"Vegetables",
+        "img":"https://i.ibb.co/HCJfV7P/carrot.jpg",
+        "description": "vegetables are very Good to health.Eating vegetables daily keeps your body balanced",
+        "price":90,
+        "rating":4.6
+    },
+    {
+        "id":91,
+        "name": "CauliFlower",
+        "category_id": 7,
+        "category":"Vegetables",
+        "img":"https://i.ibb.co/1T4wt4F/cauliflower.jpg",
+        "description": "vegetables are very Good to health.Eating vegetables daily keeps your body balanced",
+        "price":60,
+        "rating":4.1
+    },
+    {
+        "id": 92,
+        "name": "Cucumber",
+        "category_id": 7,
+        "category":"Vegetables",
+        "img":"https://i.ibb.co/9G1CbX3/cucumber.jpg",
+        "description": "vegetables are very Good to health.Eating vegetables daily keeps your body balanced",
+        "price":60,
+        "rating":3.8
+    },
+    {
+        "id": 93,
+        "name": "Drumsticks",
+        "category_id": 7,
+        "category":"Vegetables",
+        "img":"https://i.ibb.co/n8wdbgg/drumsticks.jpg",
+        "description": "vegetables are very Good to health.Eating vegetables daily keeps your body balanced",
+        "price":50,
+        "rating":4.7
+    },
+    {
+        "id": 94,
+        "name": "Garlic",
+        "category_id": 7,
+        "category":"Vegetables",
+        "img":"https://i.ibb.co/QDR7W6m/garlic.jpg",
+        "description": "vegetables are very Good to health.Eating vegetables daily keeps your body balanced",
+        "price":100,
+        "rating":4.6
+    },
+    {
+        "id": 95,
+        "name": "Gerkins",
+        "category_id": 7,
+        "category":"Vegetables",
+        "img":"https://i.ibb.co/x5SnL3x/gerkins.jpg",
+        "description": "vegetables are very Good to health.Eating vegetables daily keeps your body balanced",
+        "price":120,
+        "rating":3.6
+    },
+    {
+        "id": 96,
+        "name": "Ginger",
+        "category_id": 7,
+        "category":"Vegetables",
+        "img":"https://i.ibb.co/Qn2ft1j/ginger.jpg",
+        "description": "vegetables are very Good to health.Eating vegetables daily keeps your body balanced",
+        "price":40,
+        "rating":4.5
+    },
+    {
+        "id": 97,
+        "name": "Green chillies",
+        "category_id": 7,
+        "category":"Vegetables",
+        "img":"https://i.ibb.co/FKDW6GT/greenchillies.jpg",
+        "description": "vegetables are very Good to health.Eating vegetables daily keeps your body balanced",
+        "price":60,
+        "rating":3.7
+    },
+    {
+        "id":98,
+        "name": "LadiesFinger",
+        "category_id": 7,
+        "category":"Vegetables",
+        "img":"https://i.ibb.co/JyhhkFd/ladiesfinger.jpg",
+        "description": "vegetables are very Good to health.Eating vegetables daily keeps your body balanced",
+        "price":80,
+        "rating":4.6
+    },
+    {
+        "id":99 ,
+        "name": "Leafy Vegatables",
+        "category_id": 7,
+        "category":"Vegetables",
+        "img":"https://i.ibb.co/sw9HW77/leafyvegetables.jpg",
+        "description": "vegetables are very Good to health.Eating vegetables daily keeps your body balanced",
+        "price":100,
+        "rating":4.1
+    },
+    {
+        "id": 100,
+        "name": "Lemon",
+        "category_id": 7,
+        "category":"Vegetables",
+        "img":"https://i.ibb.co/84WZHbN/lemon.jpg",
+        "description": "vegetables are very Good to health.Eating vegetables daily keeps your body balanced",
+        "price":30,
+        "rating":4.2
+    },
+    {
+        "id": 101,
+        "name": "Onion",
+        "category_id": 7,
+        "category":"Vegetables",
+        "img":"https://i.ibb.co/LpJ45Qs/onion.jpg",
+        "description": "vegetables are very Good to health.Eating vegetables daily keeps your body balanced",
+        "price":50,
+        "rating":4.3
+    },
+    {
+        "id": 102,
+        "name": "Potato",
+        "category_id": 7,
+        "category":"Vegetables",
+        "img":"https://i.ibb.co/HF6FgXN/potato.jpg",
+        "description": "vegetables are very Good to health.Eating vegetables daily keeps your body balanced",
+        "price":90,
+        "rating":4.4
+    },
+    {
+        "id": 103,
+        "name": "Pumpkin",
+        "category_id": 7,
+        "category":"Vegetables",
+        "img":"https://i.ibb.co/N1JGFkK/pumpkin.jpg",
+        "description": "vegetables are very Good to health.Eating vegetables daily keeps your body balanced",
+        "price":120,
+        "rating":4.5
+    },
+    {
+        "id": 104,
+        "name": "Raddish",
+        "category_id": 7,
+        "category":"Vegetables",
+        "img":"https://i.ibb.co/C1C8T6F/raddish.jpg",
+        "description": "vegetables are very Good to health.Eating vegetables daily keeps your body balanced",
+        "price":80,
+        "rating":4.6
+    },
+    {
+        "id": 105,
+        "name": "Redchillies",
+        "category_id": 7,
+        "category":"Vegetables",
+        "img":"https://i.ibb.co/1ssCVQv/redchillies.jpg",
+        "description": "vegetables are very Good to health.Eating vegetables daily keeps your body balanced",
+        "price":100,
+        "rating":4.7
+    },
+    {
+        "id":106 ,
+        "name": "RidgeGourd",
+        "category_id": 7,
+        "category":"Vegetables",
+        "img":"https://i.ibb.co/6RHSYjS/ridge-gourd.jpg",
+        "description": "vegetables are very Good to health.Eating vegetables daily keeps your body balanced",
+        "price":50,
+        "rating":4.8
+    },
+    {
+        "id":107 ,
+        "name": "SnakeGourd",
+        "category_id": 7,
+        "category":"Vegetables",
+        "img":"https://i.ibb.co/C75xrvt/snakegourd.jpg",
+        "description": "vegetables are very Good to health.Eating vegetables daily keeps your body balanced",
+        "price":80,
+        "rating":4.9
+    },
+    {
+        "id":108 ,
+        "name": "Tomato",
+        "category_id": 7,
+        "category":"Vegetables",
+        "img":"https://i.ibb.co/gjVSpcH/tomatoes.jpg",
+        "description": "vegetables are very Good to health.Eating vegetables daily keeps your body balanced",
+        "price":90,
+        "rating":5.0
+    },
+    {
+        "id": 109,
+        "name": "Yellow Cucumber",
+        "category_id": 7,
+        "category":"Vegetables",
+        "img":"https://i.ibb.co/y4nQQ42/yellow-cucumber.jpg",
+        "description": "vegetables are very Good to health.Eating vegetables daily keeps your body balanced",
+        "price":50,
+        "rating":3.5
+    },
+    {
+        "id":110 ,
+        "name": "Clean & Clear Foaming Facewash for Oily Skin, Brown, 240ml",
+        "category_id": 8,
+        "category":"Beauty and Essentials",
+        "img":"https://i.ibb.co/cY1B0Gq/clean-and-clear.jpg",
+        "description": "Clean & Clear Foaming face wash is specially designed to cleanse thoroughly and remove excess oil",
+        "price":228,
+        "rating":3.6
+    },
+    {
+        "id":111 ,
+        "name": "Closeup Red Hot Deep Action Toothpaste",
+        "category_id": 8,
+        "category":"Beauty and Essentials",
+        "img":"https://i.ibb.co/MgBFFSh/closeup.jpg",
+        "description": "Closeup Red Hot Everfresh+ Gel Toothpaste now in Triple Fresh Formula harnesses the combined power of 3 components keeping you protected and fresh",
+        "price":120,
+        "rating":3.7
+    },
+    {
+        "id": 112,
+        "name": "Colgate Strong Teeth Toothpaste with Amino Shakti - India's No.1 Toothpaste for Cavity Protection (150 g)",
+        "category_id": 8,
+        "category":"Beauty and Essentials",
+        "img":"https://i.ibb.co/2h9khmq/colagate.jpg",
+        "description": "This toothpaste is 100% Vegan, Gluten-Free and is made responsibly.Good nutrition begins with strong teeth. Strong teeth chew better which leads to better",
+        "price":56,
+        "rating":4.5
+    },
+    {
+        "id":113 ,
+        "name": "Comfort Morning Fresh Fabric Conditioner 860 ml Bottle",
+        "category_id": 8,
+        "category":"Beauty and Essentials",
+        "img":"https://i.ibb.co/g9Fbt21/comfort.jpg",
+        "description": "Long-lasting freshness: now with fragrance pearls for long-lasting freshness",
+        "price":220,
+        "rating":3.8
+    },
+    {
+        "id":114 ,
+        "name": "Fair & Lovely Advanced Multi Vitamin Face Cream, 50gm",
+        "category_id": 8,
+        "category":"Beauty and Essentials",
+        "img":"https://i.ibb.co/BgxvZ6f/cream.jpg",
+        "description": "Advanced Multivitamin: Multivitamin enriched glow",
+        "price":90,
+        "rating":3.9
+    },
+    {
+        "id": 115,
+        "name": "Dabur Red Ayurvedic Paste",
+        "category_id": 8,
+        "category":"Beauty and Essentials",
+        "img":"https://i.ibb.co/SNybHLt/dabured.jpg",
+        "description": "Dabur red is indias no. 1 ayurvedic fluoride free paste which is a complete ayurvedic oral care for your family.",
+        "price":143,
+        "rating":4.0
+    },
+    {
+        "id":116 ,
+        "name": "Dettol Antiseptic Liquid for First Aid , Surface Disinfection and Personal Hygiene , 1000ml",
+        "category_id": 8,
+        "category":"Beauty and Essentials",
+        "img":"https://i.ibb.co/vZ6RFrb/dettol.jpg",
+        "description": "ANTISEPTIC LIQUID: Protects from 100 illness causing germs",
+        "price":311,
+        "rating":4.1
+    },
+    {
+        "id":117 ,
+        "name": "Dove Cream Beauty Bathing Bar 125 g",
+        "category_id": 8,
+        "category":"Beauty and Essentials",
+        "img":"https://i.ibb.co/DrN33TZ/dove.jpg",
+        "description": "With 1/4 moisturising cream, and mild cleansers, Dove helps skin maintain its natural moisture better than ordinary bar soap. Dove does not dry your skin as ordinary soap",
+        "price":75,
+        "rating":4.2
+    },
+    {
+        "id":118 ,
+        "name": "Lux Fresh Splash Soap, 100g (Pack of 3)",
+        "category_id": 8,
+        "category":"Beauty and Essentials",
+        "img":"https://i.ibb.co/tsJ1qsP/grrenlux.jpg",
+        "description": "Better perfume bloom than real flowers.For invigorated refreshed skin",
+        "price":100,
+        "rating":4.3
+    },
+    {
+        "id": 119,
+        "name": "Harpic Disinfectant Toilet Cleaner Liquid, Original - 500 ml",
+        "category_id": 8,
+        "category":"Beauty and Essentials",
+        "img":"https://i.ibb.co/c82pfKH/harpic.jpg",
+        "description": "Disinfectant Toilet Cleaner. Kills 99.9% of germs",
+        "price":84,
+        "rating":4.4
+    },
+    {
+        "id": 120,
+        "name": "Head & Shoulders , Anti Dandruff Shampoo, Cool Menthol , 1 L",
+        "category_id": 8,
+        "category":"Beauty and Essentials",
+        "img":"https://i.ibb.co/TYWwQXt/headshampoo.jpg",
+        "description": "This hair shampoo is gentle enough for everyday use, even for colour or chemically treated hair; Formulated with Head and Shoulders fresh scent technology featuring enhanced fragrance notes for an improved in-shower scent experience",
+        "price":487,
+        "rating":4.5
+    },
+    {
+        "id": 121,
+        "name": "Himalaya Herbals Neem and Turmeric Soap, 125gm (Pack of 4)",
+        "category_id": 8,
+        "category":"Beauty and Essentials",
+        "img":"https://i.ibb.co/XSgyGK2/himalaya.jpg",
+        "description": "Cleanses and purifies skin.Neem oil relieves dry skin and soothes itchiness, redness and irritation",
+        "price":156,
+        "rating":4.6
+    },
+    {
+        "id": 122,
+        "name": "Johnson's Baby Soap (75g)",
+        "category_id": 8,
+        "category":"Beauty and Essentials",
+        "img":"https://i.ibb.co/6bFRRLD/johnsons-baby.jpg",
+        "description": "Enriched with the mildness of Johnson’s baby lotion for gentle cleansing that helps preserve baby skin's natural moisture",
+        "price":52,
+        "rating":4.7
+    },
+    {
+        "id": 123,
+        "name": "Mamaearth Vitamin C Face Wash with Foaming Silicone Cleanser Brush Powered by Vitamin C & Turmeric - 150ml",
+        "category_id": 8,
+        "category":"Beauty and Essentials",
+        "img":"https://i.ibb.co/TKYKJcN/mamaearthfacewash.jpg",
+        "description": "DEEPLY CLEANSES SKIN: Mamaearth Vitamin C Foaming Face Wash effortlessly reaches deep within the pores with the help of its soft built-in brush to clear out excess oil without disturbing your skin’s natural moisture barrier. With its foaming texture, the face wash is gentle, yet highly effective",
+        "price":358,
+        "rating":4.8
+    },
+    {
+        "id": 124,
+        "name": "Mamaearth Onion Hair Oil for Hair Growth & Hair Fall Control with Redensyl 150ml",
+        "category_id": 8,
+        "category":"Beauty and Essentials",
+        "img":"https://i.ibb.co/hL4wCw2/mamaearthshampoo.jpg",
+        "description": "BOOSTS HAIR GROWTH : Onion Oil, in combination with Redensyl, reduces hair fall and promotes growth of lost hair.",
+        "price":350,
+        "rating":4.9
+    },
+    {
+        "id":125 ,
+        "name": "Pears Oil Clear & Glow Soap Bar 75g",
+        "category_id": 8,
+        "category":"Beauty and Essentials",
+        "img":"https://i.ibb.co/9ZY7ktH/peers-green.jpg",
+        "description": "Lemon flower extracts give your skin oil-clear youthful glow,Pure glycerine in pears preserves your skin's natural moisture to keep it young",
+        "price":110,
+        "rating":5.0
+    },
+    {
+        "id": 126,
+        "name": "Pears Moisturising Bathing Bar Soap with Glycerine Pure & Gentle For Golden Glow (125g x 3)",
+        "category_id": 8,
+        "category":"Beauty and Essentials",
+        "img":"https://i.ibb.co/kJqzC7d/peers.jpg",
+        "description": "Pure Glycerin in Pears preserves your skin's natural moisture to keep it young",
+        "price":150,
+        "rating":4.1
+    },
+    {
+        "id":127 ,
+        "name": "Lux Soft Glow Rose & Vitamin E For Glowing Skin Soap Beauty Soap 150 g",
+        "category_id": 8,
+        "category":"Beauty and Essentials",
+        "img":"https://i.ibb.co/7VYX5hD/pinklux.jpg",
+        "description": "Suitable for all skin types.Gives Soft & Glowing skin.Consists Vitamin E",
+        "price":100,
+        "rating":4.2
+    },
+    {
+        "id": 128,
+        "name": "POND'S Bright Beauty Spot-less Glow Face Wash With Vitamins, Removes Dead Skin Cells & Dark Spots, Double Brightness Action, All Skin Types, 200g",
+        "category_id": 8,
+        "category":"Beauty and Essentials",
+        "img":"https://i.ibb.co/P5cZDFB/ponds.jpg",
+        "description": "Dirt, Impurities & Dead skin cells removal. Ingredient Type : Synthetic. For Men & Women",
+        "price":243,
+        "rating":4.3
+    },
+    {
+        "id":129 ,
+        "name": "Rexona Coconut and Olive Oil Soap, 100g (Pack of 4)",
+        "category_id": 8,
+        "category":"Beauty and Essentials",
+        "img":"https://i.ibb.co/92S9x7n/rexona.jpg",
+        "description": "Fall in love everyday with Rexona.With Coconut & Olive Oils",
+        "price":150,
+        "rating":4.4
+    },
+    {
+        "id": 130,
+        "name": "Santoor Sandalwood and Turmeric Bath Soap for Younger Looking and Glowing Skin Combo Offer, 125 g (Pack of 4)",
+        "category_id": 8,
+        "category":"Beauty and Essentials",
+        "img":"https://i.ibb.co/KW5Trtr/santoor.jpg",
+        "description": "Perfect combo pack for your monthly grocery or pantry basket. Organic Anti-septic Soap.Sandal and turmeric have been an integral part of skin care for centuries",
+        "price":140,
+        "rating":4.5
+    },
+    {
+        "id": 131,
+        "name": "Dove Hair Fall Rescue Shampoo 340 ml, For Damaged Hair, Hair Fall Control for Thicker Hair - Mild Daily Anti Hair Fall Shampoo for Men & Women",
+        "category_id": 8,
+        "category":"Beauty and Essentials",
+        "img":"https://i.ibb.co/kH4jm8G/shampoo.jpg",
+        "description": "Strengthening Dove shampoo formulated to help prevent hair fall.Reduces hair fall by up to 98 percent. Container Type: Plastic Bottle. Ideal For: Men & Women",
+        "price":250,
+        "rating":4.6
+    },
+    {
+        "id":132 ,
+        "name": "Softouch Garden Bouquet Fabric Conditioner by Wipro, 1.6L",
+        "category_id": 8,
+        "category":"Beauty and Essentials",
+        "img":"https://i.ibb.co/3Y01Hng/softouch.jpg",
+        "description": "Softouch provide an active neem based solution that focuses on anti germ aspect along with anti fading and shrinking",
+        "price":357,
+        "rating":4.7
+    },
+    {
+        "id": 133,
+        "name": "Surf Excel Mineral Bar - 105 g",
+        "category_id": 8,
+        "category":"Beauty and Essentials",
+        "img":"https://i.ibb.co/S6KTwyb/surfexcel-soap.jpg",
+        "description": "Removes tough stains of tea, coffee, turmeric, curry, ketchup, and chocolate",
+        "price":86,
+        "rating":4.8
+    },
+    {
+        "id":134,
+        "name": "Surf Excel Matic Front Load Detergent Washing Powder 3+1 kg Free Offer, Specially designed for Tough Stain Removal on Laundry in Washing Machines",
+        "category_id": 8,
+        "category":"Beauty and Essentials",
+        "img":"https://i.ibb.co/CngtvDt/surfexcel.jpg",
+        "description": "Surf excel matic front load laundry detergent is the no.1 matic detergent and is recommended by leading washing machine manufacturers",
+        "price":810,
+        "rating":4.9
+    },
+    {
+        "id": 135,
+        "name": "Tide Plus Double Power Detergent Washing Powder - 2 kg (Lemon and Mint)",
+        "category_id": 8,
+        "category":"Beauty and Essentials",
+        "img":"https://i.ibb.co/cr830qb/tide.jpg",
+        "description": "Tide Plus Double Power has STAIN MAGNETS which remove the toughest of stains to give you stainless whites",
+        "price":222,
+        "rating":5.0
+    },
+    {
+        "id": 136,
+        "name": "Colgate ZigZag Antibacterial Toothbrush, 6Pcs, Medium, Removes bacteria between the teeth",
+        "category_id": 8,
+        "category":"Beauty and Essentials",
+        "img":"https://i.ibb.co/YyvYBhm/toothbrush.jpg",
+        "description": "Get Superior Germ protection with Colgate ZigZag Anti-bacterial toothbrush. Ideal for adults (Men & Women)",
+        "price":75,
+        "rating":4.1
+    },
+    {
+        "id":137,
+        "name": "Wheel Green Detergent Powder, 1 kg (Lemon and Jasmine)",
+        "category_id": 8,
+        "category":"Beauty and Essentials",
+        "img":"https://i.ibb.co/12Sq5GX/wheel.jpg",
+        "description": "Quantity: 1 kg.Flavour- Lemon and Jasmine.Detergent Powder",
+        "price":120,
+        "rating":4.2
+    },
+    {
+        "id": 138,
+        "name": "WOW Skin Science Apple Cider Vinegar Foaming Face Wash - with Organic Certified Himalayan Apple Cider Vinegar - No Parabens, Sulphate, Silicones & Color (with Built-in Brush) - 150mL",
+        "category_id": 8,
+        "category":"Beauty and Essentials",
+        "img":"https://i.ibb.co/h9CvJ2D/wowfacewash.jpg",
+        "description": "Bioacitve-rich with pure Apple Cider Vinegar, Aloe Vera Extract and Vitamins B5 & E.PREVENTS future breakouts and REDUCES active breakouts using natural NOT chemical ingredients.:Cleansing, healing & hydrating action for clear, soft & supple skin",
+        "price":331,
+        "rating":4.3
+    },
+    {
+        "id": 139,
+        "name": "WOW Skin Science Coconut Milk Shampoo, 300ml",
+        "category_id": 8,
+        "category":"Beauty and Essentials",
+        "img":"https://i.ibb.co/ZxXTd8N/wowshampoo.jpg",
+        "description": "Indulge your senses with this exclusive blend with coconut milk with dht blocker, this exotic formula helps add strength, elasticity, hydration, and balance for healthy hair",
+        "price":340,
+        "rating":4.4
+    },
+    {
+        "id": 140,
+        "name": "xxx Bar Value Pack (250g x 4)",
+        "category_id": 8,
+        "category":"Beauty and Essentials",
+        "img":"https://i.ibb.co/f8x3TZX/xxx-soap.jpg",
+        "description": "Removes dirt and heavy stains. Most Recommended for Laundry",
+        "price":100,
+        "rating":4.5
+    }
+
+]

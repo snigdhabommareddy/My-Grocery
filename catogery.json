@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "name":"Grocery",
+        "image":"https://i.ibb.co/ccvpBBD/grocery.jpg"
+    },
+    {
+        "id":2,
+        "name":"Dryfruits",
+        "image":"https://i.ibb.co/cbfV0pk/dryfruits.jpg"
+    },
+    {
+        "id":3,
+        "name":"Fruits",
+        "image":"https://i.ibb.co/wdcX2BT/fruits.jpg"
+    },
+    {
+        "id":4,
+        "name":"Meat",
+        "image":"https://i.ibb.co/FJDt7bR/meat.jpg"
+    },
+    {
+        "id":5,
+        "name":"Milk",
+        "image":"https://i.ibb.co/KNcCHWv/milk.jpg"
+    },
+    {
+        "id":6,
+        "name":"Spices",
+        "image":"https://i.ibb.co/XtfJPYf/spices.jpg"
+    },
+    {
+        "id":7,
+        "name":"Vegetables",
+        "image":"https://i.ibb.co/FKCJQ4w/vegetables.jpg"
+    },
+    {
+        "id":8,
+        "name":"Beauty and Essentials",
+        "image":"https://i.ibb.co/2ZnHDPB/Suffolk-Virginia-USA-November-3-2012-A-horizontal-studio-shot-of-an-assortment-of-American-manufactu.jpg"
+    }
+]

@@ -1,0 +1,125 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Lobster+Two&family=Luxurious+Roman&family=Roboto:ital,wght@0,100;0,400;0,500;1,100;1,300;1,400;1,500&display=swap');
+body{
+    background-color: #eaeded;
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.logo{
+    width:60px;
+    height:60px;
+}
+.fa-user{
+    font-size: 29px;
+    color:rgb(235, 38, 71);
+    border-radius: 50%;
+}
+.fa-shopping-cart{
+    font-size: 24px;
+    color:rgb(19, 138, 19);
+    border-radius: 50%;
+}
+.fa-search{
+    font-size: 28px;
+    color:rgb(15, 102, 189);
+    border-radius: 50%;
+}
+.fa-star,.fa-star-half-alt{
+    color:orange;
+}
+.navbar-brand{
+    font-size: 30px;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.heading>span{
+    background-color: crimson;
+    color:white;
+    text-align:center;
+    padding:5px 30px;
+    clip-path: polygon(100% 0,93% 50%,100% 99%,0% 100%,7% 50%,0% 0%);
+}
+.imgorganic{
+    width:100%;
+    height:350px;
+    border:3px solid lightgrey;
+    box-shadow: 10px 20px 15px lightgrey;
+}
+p{
+    font-size: 18px;
+}
+.imgoffers{
+    box-shadow: 10px 20px 15px lightgrey;
+}
+.fa-linkedin,.fa-facebook,.fa-instagram{
+    font-size: 25px;
+    margin-top:20px;
+    margin-right:20px;
+    color:white;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+.links{
+    font-size: 18px;
+    line-height: 30px;
+    color:white;
+}
+.fa-arrow-right,.fa-phone,.fa-envelope,.fa-map-marker-alt{
+    color:rgb(14, 153, 14);
+}
+#contact{
+    background-color: black;
+    color:white;
+}
+.card:hover,.imgorganic:hover,.imgoffers:hover,.fa-user:hover,.fa-shopping-cart:hover,.fa-search:hover{
+    transform: scale(1.1);
+}
+.card>img:hover{
+    box-shadow: 5px 5px 5px 5px lightgrey;
+}
+.modal-title{
+    font-weight: bold;
+    font-size: 25px;
+}
+#coupon-content{
+    height:300px;
+    width:40%;
+    background-image: url('images/coupon.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100% 300px;
+    visibility: hidden;
+    position:absolute;
+    left:30%;
+    top:20%;
+    border:2px solid red;
+    border-radius: 5px;
+    z-index:100;
+}
+.closed{
+    color:red;
+    background-color:#fbf9af;
+    border:none;
+    font-size: 35px;
+    cursor:pointer;
+    position:absolute;
+    left:90%;
+}
+@media screen and (max-width:800px){
+    .closed{
+        left:85%;
+    }
+}
+@media screen and (max-width:500px){
+    .closed{
+        left:75%;
+    }
+    #coupon-content{
+        top:30%;
+    }
+}
