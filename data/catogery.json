@@ -1,0 +1,32 @@
+[
+    {
+        "category_id":1,
+        "category_name":"Grocery",
+        "category_image":"https://i.ibb.co/vBNvzBW/cat2.jpg"
+    },
+    {
+        "category_id":2,
+        "category_name":"Dryfruits",
+        "category_image":"https://i.ibb.co/sFPhPzx/cat1.jpg"
+    },
+    {
+        "category_id":3,
+        "category_name":"Beauty",
+        "category_image":"https://i.ibb.co/6w8H5Gj/cat3.jpg"
+    },
+    {
+        "category_id":4,
+        "category_name":"spices",
+        "category_image":"https://i.ibb.co/MZVnLJk/spices.jpg"
+    },
+    {
+        "category_id":5,
+        "category_name":"snacks",
+        "category_image":"https://i.ibb.co/vmRyvvw/cat4.jpg"
+    },
+    {
+        "category_id":6,
+        "category_name":"Fruits & Veggies",
+        "category_image":"https://i.ibb.co/KLZqxjr/cat6.jpg"
+    }
+]
