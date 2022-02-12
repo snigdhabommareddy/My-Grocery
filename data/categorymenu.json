@@ -1,5 +1,5 @@
+db.menu.insert(
 [
-    //grocery
     {
         "id": 1,
         "name": "Aashirvaad Superior MP Atta",
@@ -16,7 +16,7 @@
         "category_id": 1,
         "category":"Grocery",
         "img": "https://i.ibb.co/FBf5t78/bengalgram.jpg",
-        "description": "✔ Grown without synthetic Pesticides and without synthetic GMOs,Unpolished: Does not undergo any artificial polishing with water, oil or leather thereby retaining its goodness and wholesomeness",
+        "description": "Grown without synthetic Pesticides and without synthetic GMOs,Unpolished: Does not undergo any artificial polishing with water, oil or leather thereby retaining its goodness and wholesomeness",
         "price": 670,
         "rating":4.6
     },
@@ -100,7 +100,6 @@
         "price":270,
         "rating":4.1
     },
-  //dryfruits
     {
         "id": 11,
         "name": "100% Natural Premium Californian Almonds,Dried,1kg",
@@ -191,13 +190,11 @@
         "price":315,
         "rating":4.6
     },
-
-//fruits and veggies
     {
         "id": 20,
         "name": "Apples 1kg",
         "category_id": 6,
-        "category":"Fruits",
+        "category":"Fruits & vegetables",
         "img":"https://i.ibb.co/QmXLTkN/apples.jpg",
         "description": "Fruits are Good to health,Eating fruits regulary will keeps your health Good",
         "price":250,
@@ -207,7 +204,7 @@
         "id": 21,
         "name": "Banana",
         "category_id": 6,
-        "category":"Fruits",
+        "category":"Fruits & vegetables",
         "img":"https://i.ibb.co/Y2vgDkj/banana.jpg",
         "description": "Fruits are Good to health,Eating fruits regulary will keeps your health Good",
         "price":100,
@@ -217,7 +214,7 @@
         "id": 22,
         "name": "Blackberries",
         "category_id": 6,
-        "category":"Fruits",
+        "category":"Fruits & vegetables",
         "img":"https://i.ibb.co/kS3DwDY/blackberries.jpg",
         "description": "Fruits are Good to health,Eating fruits regulary will keeps your health Good",
         "price":300,
@@ -227,7 +224,7 @@
         "id": 23,
         "name": "Blackgrapes",
         "category_id": 6,
-        "category":"Fruits",
+        "category":"Fruits & vegetables",
         "img":"https://i.ibb.co/Lt4MLCV/blackgrapes.jpg",
         "description": "Fruits are Good to health,Eating fruits regulary will keeps your health Good",
         "price":120,
@@ -237,7 +234,7 @@
         "id": 24,
         "name": "Blueberries",
         "category_id": 6,
-        "category":"Fruits",
+        "category":"Fruits & vegetables",
         "img":"https://i.ibb.co/56GWG8v/blueberries.jpg",
         "description": "Fruits are Good to health,Eating fruits regulary will keeps your health Good",
         "price":200,
@@ -247,7 +244,7 @@
         "id": 25,
         "name": "Cherries",
         "category_id": 6,
-        "category":"Fruits",
+        "category":"Fruits & vegetables",
         "img":"https://i.ibb.co/DtsTbg3/cherries.jpg",
         "description": "Fruits are Good to health,Eating fruits regulary will keeps your health Good",
         "price":320,
@@ -257,7 +254,7 @@
         "id":26,
         "name": "Custard Apple",
         "category_id": 6,
-        "category":"Fruits",
+        "category":"Fruits & vegetables",
         "img":"https://i.ibb.co/nP6fSnh/custard-apple.jpg",
         "description": "Fruits are Good to health,Eating fruits regulary will keeps your health Good",
         "price":200,
@@ -267,7 +264,7 @@
         "id":27,
         "name": "French Beans",
         "category_id": 6,
-        "category":"Vegetables",
+        "category":"Fruits & vegetables",
         "img":"https://i.ibb.co/3cCt3TC/beans.jpg",
         "description": "vegetables are very Good to health.Eating vegetables daily keeps your body balanced",
         "price":200,
@@ -277,7 +274,7 @@
         "id":28,
         "name": "Beetroot",
         "category_id": 6,
-        "category":"Vegetables",
+        "category":"Fruits & vegetables",
         "img":"https://i.ibb.co/4McPLMW/beetroot.jpg",
         "description": "vegetables are very Good to health.Eating vegetables daily keeps your body balanced",
         "price":150,
@@ -287,7 +284,7 @@
         "id":29,
         "name": "BottleGourd",
         "category_id": 6,
-        "category":"Vegetables",
+        "category":"Fruits & vegetables",
         "img":"https://i.ibb.co/kMMtBYv/bootleourd.jpg",
         "description": "vegetables are very Good to health.Eating vegetables daily keeps your body balanced",
         "price":120,
@@ -297,13 +294,12 @@
         "id": 30,
         "name": "Brinjal",
         "category_id": 6,
-        "category":"Vegetables",
+        "category":"Fruits & vegetables",
         "img":"https://i.ibb.co/23x5RLb/brinjal.jpg",
         "description": "vegetables are very Good to health.Eating vegetables daily keeps your body balanced",
         "price":60,
         "rating":4.2
     },
-   ///spices
     {
         "id":31 ,
         "name": "Organic Bay Leaf Whole - Tej Patta Dried bay leaves Indian Spices (100 Gm)",
@@ -404,7 +400,6 @@
         "price":160,
         "rating":3.8
     },
-//beauty
     {
         "id":41,
         "name": "Clean & Clear Foaming Facewash for Oily Skin, Brown, 240ml",
@@ -525,85 +520,85 @@
         "price":156,
         "rating":4.6
     },
-  ///snacks
-   {
-    "id": 53,
-    "name": "Bingo",
-    "category_id": 5,
-    "category":"Snacks",
-    "img":"https://i.ibb.co/d0pmdCP/bingo.jpg",
-    "description": "Snacks are favourite for all.Eating snacks are all time favourite.",
-    "price":30,
-    "rating":4.1
-},
-{
-    "id": 54,
-    "name": "Choclates",
-    "category_id": 5,
-    "category":"Snacks",
-    "img":"https://i.ibb.co/d0pmdCP/bingo.jpg",
-    "description": "Snacks are favourite for all.Eating snacks are all time favourite.",
-    "price":50,
-    "rating":4.2
-},
-{
-    "id": 55,
-    "name": "Dark Fantasy",
-    "category_id": 5,
-    "category":"Snacks",
-    "img":"https://i.ibb.co/fCBF6PH/darkfantasy.jpg",
-    "description": "Snacks are favourite for all.Eating snacks are all time favourite.",
-    "price":90,
-    "rating":4.3
-},
-{
-    "id": 56,
-    "name": "Kurkure",
-    "category_id": 5,
-    "category":"Snacks",
-    "img":"https://i.ibb.co/pPNRVf8/kurkure.jpg",
-    "description": "Snacks are favourite for all.Eating snacks are all time favourite.",
-    "price":70,
-    "rating":4.7
-},
-{
-    "id": 57,
-    "name": "Lays",
-    "category_id": 5,
-    "category":"Snacks",
-    "img":"https://i.ibb.co/WW7rpPW/lays.jpg",
-    "description": "Snacks are favourite for all.Eating snacks are all time favourite.",
-    "price":100,
-    "rating":4.5
-},
-{
-    "id": 58,
-    "name": "Moongdal",
-    "category_id": 5,
-    "category":"Snacks",
-    "img":"https://i.ibb.co/Qd12NRP/moondal.jpg",
-    "description": "Snacks are favourite for all.Eating snacks are all time favourite.",
-    "price":30,
-    "rating":4.1
-},
-{
-    "id": 59,
-    "name": "Moms-Magic Buiscuits",
-    "category_id": 5,
-    "category":"Snacks",
-    "img":"https://i.ibb.co/v4sBHhG/busicuits.jpg",
-    "description": "Snacks are favourite for all.Eating snacks are all time favourite.",
-    "price":40,
-    "rating":4.9
-},
-{
-    "id": 60,
-    "name": "Cheetos",
-    "category_id": 5,
-    "category":"Snacks",
-    "img":"https://i.ibb.co/3rJDVzF/cheetos.jpg",
-    "description": "Snacks are favourite for all.Eating snacks are all time favourite.",
-    "price":90,
-    "rating":4.6
-}
+    {
+        "id": 53,
+        "name": "Bingo",
+        "category_id": 5,
+        "category":"Snacks",
+        "img":"https://i.ibb.co/d0pmdCP/bingo.jpg",
+        "description": "Snacks are favourite for all.Eating snacks are all time favourite.",
+        "price":30,
+        "rating":4.1
+    },
+    {
+        "id": 54,
+        "name": "Choclates",
+        "category_id": 5,
+        "category":"Snacks",
+        "img":"https://i.ibb.co/d0pmdCP/bingo.jpg",
+        "description": "Snacks are favourite for all.Eating snacks are all time favourite.",
+        "price":50,
+        "rating":4.2
+    },
+    {
+        "id": 55,
+        "name": "Dark Fantasy",
+        "category_id": 5,
+        "category":"Snacks",
+        "img":"https://i.ibb.co/fCBF6PH/darkfantasy.jpg",
+        "description": "Snacks are favourite for all.Eating snacks are all time favourite.",
+        "price":90,
+        "rating":4.3
+    },
+    {
+        "id": 56,
+        "name": "Kurkure",
+        "category_id": 5,
+        "category":"Snacks",
+        "img":"https://i.ibb.co/pPNRVf8/kurkure.jpg",
+        "description": "Snacks are favourite for all.Eating snacks are all time favourite.",
+        "price":70,
+        "rating":4.7
+    },
+    {
+        "id": 57,
+        "name": "Lays",
+        "category_id": 5,
+        "category":"Snacks",
+        "img":"https://i.ibb.co/WW7rpPW/lays.jpg",
+        "description": "Snacks are favourite for all.Eating snacks are all time favourite.",
+        "price":100,
+        "rating":4.5
+    },
+    {
+        "id": 58,
+        "name": "Moongdal",
+        "category_id": 5,
+        "category":"Snacks",
+        "img":"https://i.ibb.co/Qd12NRP/moondal.jpg",
+        "description": "Snacks are favourite for all.Eating snacks are all time favourite.",
+        "price":30,
+        "rating":4.1
+    },
+    {
+        "id": 59,
+        "name": "Moms-Magic Buiscuits",
+        "category_id": 5,
+        "category":"Snacks",
+        "img":"https://i.ibb.co/v4sBHhG/busicuits.jpg",
+        "description": "Snacks are favourite for all.Eating snacks are all time favourite.",
+        "price":40,
+        "rating":4.9
+    },
+    {
+        "id": 60,
+        "name": "Cheetos",
+        "category_id": 5,
+        "category":"Snacks",
+        "img":"https://i.ibb.co/3rJDVzF/cheetos.jpg",
+        "description": "Snacks are favourite for all.Eating snacks are all time favourite.",
+        "price":90,
+        "rating":4.6
+    }
 ]
+)

@@ -1,0 +1,202 @@
+db.categorydata.insert(
+[
+    {
+        "_id":1,
+        "category_id":1,
+        "category_name":"Bru Instant Coffee Pouch",
+        "category_image":"https://i.ibb.co/vjqp7sK/bru.jpg",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost":120,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":1,
+                "category":"Grocery"
+            }
+        ]
+
+    },
+    {
+        "_id":2,
+        "category_id":1,
+        "category_name":"Fortune Chakki Fresh Atta, 10 kg",
+        "category_image":"https://i.ibb.co/9snHVqR/fortune.jpg",
+        "average_rating": 4.8,
+        "rating_text": "Good",
+        "cost":420,
+        "contact_number": 945878671,
+        "category_type":[
+            {
+                "category_id":1,
+                "category":"Grocery"
+            }
+        ]
+
+    },
+    {
+        "_id":3,
+        "category_id":2,
+        "category_name":"100% Natural Premium Californian Almonds,Dried,1kg",
+        "category_image":"https://i.ibb.co/9gts9R9/dryfruits.jpg",
+        "average_rating": 4.7,
+        "rating_text": "Good,High protein",
+        "cost": 900,
+        "contact_number": "122345352465",
+        "category_type":[
+            {
+                "category_id": 2,
+                "category":"Dryfruits"
+            }
+        ]
+
+    },
+    {
+        "_id":4,
+        "category_id":2,
+        "category_name":"Black Seedless Premium Raisins, - 1kg | Kala Kishmish | Kismis",
+        "category_image":"https://i.ibb.co/xFZgW2L/blackraisins.jpg",
+        "average_rating": 4.1,
+        "rating_text": "very good",
+        "cost": 400,
+        "contact_number": "7832642465",
+        "category_type":[
+            {
+                "category_id": 2,
+                "category":"Dryfruits"
+            }
+        ]
+
+    },
+    {
+        "_id":5,
+        "category_id":3,
+        "category_name":"Fair & Lovely Advanced Multi Vitamin Face Cream, 50gm",
+        "category_image":"https://i.ibb.co/BgxvZ6f/cream.jpg",
+        "average_rating": 4.9,
+        "rating_text": "Excellent",
+        "cost": 900,
+        "contact_number": "46783377564",
+        "category_type":[
+            {
+                "category_id": 3,
+                "category":"Beauty and Essentials"
+            }
+        ]
+    },
+    {
+        "_id":6,
+        "category_id":3,
+        "category_name":"Dove Cream Beauty Bathing Bar 125 g",
+        "category_image":"https://i.ibb.co/DrN33TZ/dove.jpg",
+        "average_rating": 4.2,
+        "rating_text": "very good",
+        "cost": 100,
+        "contact_number": "46750983964",
+        "category_type":[
+            {
+                "category_id": 3,
+                "category":"Beauty and Essentials"
+            }
+        ]
+    },
+    {
+        "_id":7,
+        "category_id":4,
+        "category_name":"Organics -100 Gm - Kerala Mace/Javitri/Japatri Flower Whole spices [Organically Grown]",
+        "category_image":"https://i.ibb.co/VQrsf4v/japatri.jpg",
+        "average_rating": 4.5,
+        "rating_text": "Very Good",
+        "cost": 140,
+        "contact_number": "3496508401",
+        "category_type":[
+            {
+                "category_id": 4,
+                "category":"Spices"
+            }
+        ]
+    },
+    {
+        "_id":8,
+        "category_id":4,
+        "category_name":"Spices Whole Clove /Special Laung ,100g",
+        "category_image":"https://i.ibb.co/zFp41W3/cloves.jpg",
+        "average_rating": 4.1,
+        "rating_text": "Good",
+        "cost": 90,
+        "contact_number": "3476347401",
+        "category_type":[
+            {
+                "category_id": 4,
+                "category":"Spices"
+            }
+        ]
+    },
+    {
+        "_id":9,
+        "category_id":5,
+        "category_name":"Moms-Magic Buiscuits",
+        "category_image":"https://i.ibb.co/v4sBHhG/busicuits.jpg",
+        "average_rating": 4.5,
+        "rating_text": "Very Good",
+        "cost": 40,
+        "contact_number": "8731537554",
+        "category_type":[
+            {
+                "category_id": 5,
+                "category":"Snacks"
+            }
+        ]
+    },
+    {
+        "_id":10,
+        "category_id":5,
+        "category_name":"Lays",
+        "category_image":"https://i.ibb.co/WW7rpPW/lays.jpg",
+        "average_rating": 4.1,
+        "rating_text": "Good",
+        "cost": 70,
+        "contact_number": "8731876754",
+        "category_type":[
+            {
+                "category_id": 5,
+                "category":"Snacks"
+            }
+        ]
+    },
+    {
+        "_id":11,
+        "category_id":6,
+        "category_name":"Custard Apple",
+        "category_image":"https://i.ibb.co/nP6fSnh/custard-apple.jpg",
+        "average_rating": 4,
+        "rating_text": "Very Good",
+        "cost": 500,
+        "contact_number": "1233766534",
+        "category_type":[
+            {
+                "category_id": 6,
+                "category":"Fruits & vegetables"
+            }
+        ]
+    },
+    {
+        "_id":12,
+        "category_id":6,
+        "category_name":"Brinjal",
+        "category_image":"https://i.ibb.co/23x5RLb/brinjal.jpg",
+        "average_rating": 4,
+        "rating_text": "Good",
+        "cost": 200,
+        "contact_number": "1989877666534",
+        "category_type":[
+            {
+                "category_id": 6,
+                "category":"Fruits & vegetables"
+            }
+        ]
+    }
+    
+
+]
+)

@@ -1,0 +1,19 @@
+db.orders.insert(
+[
+    {
+        "_id":1,
+        "category_id":5,
+        "category_name":"snacks",
+        "name":"user",
+        "phone":988678626482,
+        "email":"user@gmail.com",
+        "cost":800,
+        "address":"Hno9558",
+        "menuItems":[ 3,7 ],
+        "bank":"SBI Bank",
+        "bank_status":"TXN_success",
+        "date":"09-02-2022",
+        "status":"pending"
+    }
+]
+)
