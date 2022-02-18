@@ -21,3 +21,8 @@ function test(){
 function closeDiv(){
     document.getElementById('coupon-content').style.visibility="hidden"
 }
+
+function mode(){
+  var bodychange=document.body;
+  bodychange.classList.toggle('mybody');
+}

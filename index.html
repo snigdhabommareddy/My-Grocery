@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Grocery</title>
+    <link href="./images/groceryicon.jpg" rel="icon">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
@@ -25,7 +26,7 @@
           </button>
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <form class="d-flex ms-auto">
-              <button class="btn me-1" type="submit"><i class="fas fa-search"></i></button>
+              <a href="#" onclick="mode()" class="mr-3"><img src="./images/mode.png" class="mode"></a>
               <button class="btn me-1" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal"><i class="fas fa-user"></i></button>
               <button class="btn ms-1" type="submit"><i class="fas fa-shopping-cart"></i></button>
             </form>
@@ -106,7 +107,7 @@
         <hr/>
       <div class="col-lg-2 col-md-4 col-6">
         <div class="card" style="width: 9rem;border:none;">
-          <img src="./images/categories/dryfruits.jpg" class="card-img-top" alt="..." style="border-radius:50%;height:100px;width:100px;">
+         <a href="./dryfruits cat/dryfruits.html"><img src="./images/categories/dryfruits.jpg" class="card-img-top" alt="..." style="border-radius:50%;height:100px;width:100px;"></a>
           <div class="card-body">
             <h5 class="card-title text-success">Dry Fruits</h5>
           </div>
@@ -114,7 +115,7 @@
       </div>
       <div class="col-lg-2 col-md-4 col-6">
         <div class="card" style="width: 9rem;border:none;">
-          <img src="./images/categories/grocery.jpg" class="card-img-top" alt="..." style="border-radius:50%;height:100px;width:100px;">
+          <a href="./grocerycat/grocery.html"><img src="./images/categories/grocery.jpg" class="card-img-top" alt="..." style="border-radius:50%;height:100px;width:100px;"></a>
           <div class="card-body">
             <h5 class="card-title text-success">Grocery</h5>
           </div>
@@ -124,7 +125,7 @@
         
         <div class="col-lg-2 col-md-4 col-6">
         <div class="card" style="width: 9rem;border:none;">
-          <img src="./images/categories/beauty and essentials.jpg" class="card-img-top" alt="..." style="border-radius:50%;height:100px;width:100px;">
+          <a href="./beautycat/beauty.html"><img src="./images/categories/beauty and essentials.jpg" class="card-img-top" alt="..." style="border-radius:50%;height:100px;width:100px;"></a>
           <div class="card-body">
             <h5 class="card-title text-success">Beauty</h5>
           </div>
@@ -132,7 +133,7 @@
         </div>
         <div class="col-lg-2 col-md-4 col-6">
         <div class="card" style="width: 9rem;border:none;">
-          <img src="./images/categories/spices.jpg" class="card-img-top" alt="..." style="border-radius:50%;height:100px;width:100px;">
+          <a href="./spicescat/spice.html"><img src="./images/categories/spices.jpg" class="card-img-top" alt="..." style="border-radius:50%;height:100px;width:100px;"></a>
           <div class="card-body">
             <h5 class="card-title text-success">Spices</h5>
           </div>
@@ -140,7 +141,7 @@
         </div>
         <div class="col-lg-2 col-md-4 col-6">
         <div class="card" style="width: 9rem;border:none;">
-          <img src="./images/categories/snacks.jpg" class="card-img-top" alt="..." style="border-radius:50%;height:100px;width:100px;">
+         <a href="./snackscat/snack.html"><img src="./images/categories/snacks.jpg" class="card-img-top" alt="..." style="border-radius:50%;height:100px;width:100px;"></a> 
           <div class="card-body">
             <h5 class="card-title text-success">Snacks</h5>
           </div>
@@ -148,7 +149,7 @@
       </div>
       <div class="col-lg-2 col-md-4 col-6">
         <div class="card" style="width: 9rem;border:none;">
-          <img src="./images/categories/vegetables.jpg" class="card-img-top" alt="..." style="border-radius:50%;height:100px;width:100px;">
+         <a href="./fruits and veggies/fruits.html"><img src="./images/categories/vegetables.jpg" class="card-img-top" alt="..." style="border-radius:50%;height:100px;width:100px;"></a> 
           <div class="card-body">
             <h5 class="card-title text-success">Fruits and Veggies</h5>
           </div>
@@ -177,8 +178,8 @@
             <img src="images/dryfruits/blackraisins.jpg" class="card-img-top ms-5" alt="..." style="height:230px;width:200px;">
             <div class="card-body">
               <h5 class="card-title text-danger text-center fw-bold">Black Raisins</h5>
-              <p class="card-text text-center fw-bold">Best Quality Indian Dry fruit</p>
-              <p class="card-text text-center fw-bold">Price:Rs/-455</p>
+              <p class="card-text text-center fw-bold text-secondary">Best Quality Indian Dry fruit</p>
+              <p class="card-text text-center fw-bold text-secondary">Price:Rs/-455</p>
               <div class="text-center">
               <i class="fas fa-star"></i>
               <i class="fas fa-star"></i>
@@ -197,8 +198,8 @@
             <img src="images/groceries/chanadal.jpg" class="card-img-top ms-4" alt="..." style="height:230px;width:230px;">
             <div class="card-body">
               <h5 class="card-title text-danger text-center fw-bold">Chana Dal</h5>
-              <p class="card-text text-center fw-bold">Best Quality Chana Dal</p>
-              <p class="card-text text-center fw-bold">Price:Rs/-230</p>
+              <p class="card-text text-center fw-bold text-secondary">Best Quality Chana Dal</p>
+              <p class="card-text text-center fw-bold text-secondary">Price:Rs/-230</p>
               <div class="text-center">
                 <i class="fas fa-star"></i>
                 <i class="fas fa-star"></i>
@@ -217,8 +218,8 @@
             <img src="images/groceries/asirvad.jpg" class="card-img-top ms-5" alt="..." style="height:230px; width:200px;">
             <div class="card-body">
               <h5 class="card-title text-danger text-center fw-bold">Asirvad Atta</h5>
-              <p class="card-text text-center fw-bold">Best Quality Atta</p>
-              <p class="card-text text-center fw-bold">Price:Rs/-500</p>
+              <p class="card-text text-center fw-bold text-secondary">Best Quality Atta</p>
+              <p class="card-text text-center fw-bold text-secondary">Price:Rs/-500</p>
               <div class="text-center mt-3">
                 <i class="fas fa-star"></i>
                 <i class="fas fa-star"></i>
@@ -263,7 +264,7 @@
     <div class="container">
       <div class="row mt-5">
         <div class="col-lg-6 col-12">
-          <img src="images/organic.png" alt="organic" class="imgorganic">
+         <a href="./fruits and veggies/fruits.html"><img src="images/organic.png" alt="organic" class="imgorganic"></a> 
         </div>
         <div class="col-lg-6 col-12">
           <h1 class="text-center text-success mt-5">"Let Food Be The Medicine And Medicine Be The Food."</h1>
@@ -283,17 +284,17 @@
       <div class="row mt-2">
         <div class="col-lg-4 col-md-6 col-12">
           <div class="card mt-4" style="width: 18rem;">
-            <img src="images/offer1.jpg" class="card-img-top" alt="...">
+           <a href="./grocerycat/grocery.html"> <img src="images/offer1.jpg" class="card-img-top" alt="..."></a>
           </div>
           </div>
           <div class="col-lg-4 col-md-6 col-12">
             <div class="card mt-4" style="width: 18rem;">
-              <img src="images/offer2.jpg" class="card-img-top" alt="...">
+              <a href="./beautycat/beauty.html"><img src="images/offer2.jpg" class="card-img-top" alt="..."></a>
             </div>
             </div>
             <div class="col-lg-4 col-md-6 col-12">
               <div class="card mt-4" style="width: 18rem;">
-                <img src="images/offer3.jpg" class="card-img-top" alt="...">
+                <a href="./beautycat/beauty.html"><img src="images/offer3.jpg" class="card-img-top" alt="..."></a>
               </div>
               </div>
       </div>
@@ -362,6 +363,7 @@
       </div>
   </footer>
 </section>
+
 <script src="script.js"></script>
 <script>
   window.onload=test()
