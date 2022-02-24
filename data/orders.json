@@ -1,7 +1,7 @@
 db.orders.insert(
 [
     {
-        "_id":1,
+        "id":1,
         "category_id":5,
         "category_name":"snacks",
         "name":"user",
