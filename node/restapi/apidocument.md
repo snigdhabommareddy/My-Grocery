@@ -37,10 +37,6 @@ https://groceryintern.herokuapp.com/filter/1?lcost=100&hcost=1000&skip=0&limit=2
 http://localhost:8900/productDetails/1
 https://groceryintern.herokuapp.com/productDetails/1
 
-2.menu of categories
-http://localhost:8900/menu/1
-https://groceryintern.herokuapp.com/menu/1
-
 
 ///page4(post)
 1.menu items on user selection

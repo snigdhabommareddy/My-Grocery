@@ -35,23 +35,15 @@ app.get('/products',(req,res)=>{
         query={category_id:catId}
     }
     console.log(">>>catId",catId)
-    db.collection('catdata').find(query).toArray((err,result)=>{
+    db.collection('categorymenu').find(query).toArray((err,result)=>{
         if(err) throw err;
         res.send(result)
     })
 })
-//details of products and menu wrt categories
+//details of products
 app.get('/productDetails/:id',(req,res)=>{
     let productId=Number(req.params.id);
-    db.collection('catdata').find({_id:productId}).toArray((err,result)=>{
-        if(err) throw err;
-        res.send(result)
-    })
-})
-//menuproducts wrt categories
-app.get('/menu/:id',(req,res)=>{
-    let productId=Number(req.params.id);
-    db.collection('categorymenu').find({category_id:productId}).toArray((err,result)=>{
+    db.collection('categorymenu').find({id:productId}).toArray((err,result)=>{
         if(err) throw err;
         res.send(result)
     })
@@ -60,7 +52,7 @@ app.get('/menu/:id',(req,res)=>{
 
 //filters
 app.get('/filter/:catId',(req,res)=>{
-    let sort={cost:1}
+    let sort={price:1}
     let catId=Number(req.params.catId)
     let skip=0;
     let limit=10000000000000;
@@ -68,16 +60,16 @@ app.get('/filter/:catId',(req,res)=>{
     let hcost=Number(req.query.hcost)
     let query={}
     if(req.query.sort){
-        sort={cost:req.query.sort}
+        sort={price:req.query.sort}
     }
     if(req.query.skip && req.query.limit){
         skip=Number(req.query.skip);
         limit=Number(req.query.limit);
     }
     if(lcost&hcost){
-        query={$and:[{cost:{$gt:lcost,$lt:hcost}}],"category_type.category_id":catId}
+        query={$and:[{price:{$gt:lcost,$lt:hcost}}],"category_id":catId}
     }
-    db.collection('catdata').find(query).sort(sort).skip(skip).limit(limit).toArray((err,result)=>{
+    db.collection('categorymenu').find(query).sort(sort).skip(skip).limit(limit).toArray((err,result)=>{
         if(err) throw err;
         res.send(result)
     })
