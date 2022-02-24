@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grocery</title>
+    <link href="../images/groceryicon.jpg" rel="icon">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+    <link rel="stylesheet" href="dryfryits.css">
+</head>
+<body>
+<!--header-->
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-light bg-dark">
+            <div class="container-fluid">
+              <a class="navbar-brand ms-3 text-white" href="../index.html"><span class="text-warning">e</span>Grocery</a>
+              <button class="navbar-toggler btn-light" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon btn-light"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <form class="d-flex ms-auto">
+                  <button class="btn me-1" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal"><i class="fas fa-user"></i></button>
+                  <button class="btn ms-1" type="submit"><i class="fas fa-shopping-cart"></i></button>
+                </form>
+              </div>
+            </div>
+          </nav>
+    </header>
+<!--image category-->
+<div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-indicators">
+      <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+      <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+      <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    </div>
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <img src="../images/dryfruits/banner3.jpg" class="d-block w-100" alt="dryfruits" style="height: 400px;">
+      </div>
+      <div class="carousel-item">
+        <img src="../images/dryfruits/banner 2.jpg" class="d-block w-100" alt="dryfruits" style="height: 400px;">
+      </div>
+      <div class="carousel-item">
+        <img src="../images/dryfruits/banner1.jpg" class="d-block w-100" alt="dryfruits" style="height: 400px;">
+      </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
+  </div>
+<!--main-->
+<h2 class="text-center fw-bold mt-5 heading">DRY FRUITS</h2>
+<hr class="mt-5"/>
+<div class="container">
+<div class="row">
+    <div class="col-lg-2 mt-5 sorting">
+        <h4 class="text-center fw-bold heading">Sort By</h4>
+        <h5 class="text-secondary mt-5 ms-4">Price</h5>
+        <div class="category mt-4">
+            <input type="radio" name="flexRadio" class="mb-4 me-3">100-200<br>
+            <input type="radio" name="flexRadio" class="mb-4 me-3">200-300<br>
+            <input type="radio" name="flexRadio" class="mb-4 me-3">300-500<br>
+            <input type="radio" name="flexRadio" class="me-3">500-1000<br>
+        </div>
+    </div>
+    <div class="col-lg-10 mt-5">
+        <div class="row ms-4">
+            <div class="col-lg-4 col-md-6 col-12 mt-4">
+                <div class="card" style="width: 17rem;">
+                    <img src="../images/dryfruits/anjeer.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title text-center fw-bold text-danger">Anjeer</h5>
+                      <p class="card-text text-secondary text-center">Rich source of fibre calcium and iron,They contains zerofat and zero cholesterol.</p>
+                      <a href="#" class="btn btn-success text-white text-center addcart">Show Details</a>
+                    </div>
+                  </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-12 mt-4">
+                <div class="card" style="width: 17rem;">
+                    <img src="../images/dryfruits/blackrasiins.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title text-center fw-bold text-danger">Black Raisins</h5>
+                      <p class="card-text text-secondary text-center">Black Raisins seedless. Raisin are Natural Sun Dried; Fresh, Bigger in size; Nutritious.</p>
+                      <a href="#" class="btn btn-success text-white text-center addcart">Show Details</a>
+                    </div>
+                  </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-12 mt-4">
+                <div class="card" style="width: 17rem;">
+                    <img src="../images/dryfruits/cahew.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title text-center fw-bold text-danger">Cashew</h5>
+                      <p class="card-text text-secondary text-center">100% NATURAL PLAIN W450 CASHEW NUTS: Handpicked premium, big sized, fresh.</p>
+                      <a href="#" class="btn btn-success text-white text-center addcart">Show Details</a>
+                    </div>
+                  </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-12 mt-4">
+                <div class="card" style="width: 17rem;">
+                    <img src="../images/dryfruits/mixed dryfruits.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title text-center fw-bold text-danger">Mixed Dry Fruits</h5>
+                      <p class="card-text text-secondary text-center">Healthy nuts and dried fruits, Good for an active lifestyle Improves digestion, immunity.</p>
+                      <a href="#" class="btn btn-success text-white text-center addcart">Show Details</a>
+                    </div>
+                  </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-12 mt-4">
+                <div class="card" style="width: 17rem;">
+                    <img src="../images/dryfruits/pista.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title text-center fw-bold text-danger">Pista</h5>
+                      <p class="card-text text-secondary text-center">Good for an active lifestyle.Healthy source of antioxidants.</p>
+                      <a href="#" class="btn btn-success text-white text-center addcart">Show Details</a>
+                    </div>
+                  </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-12 mt-4">
+                <div class="card" style="width: 17rem;">
+                    <img src="../images/dryfruits/walnuts.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title text-center fw-bold text-danger">walnuts</h5>
+                      <p class="card-text text-secondary text-center">Rich source of energy as it has got all the minerals, nutrients, antioxidants.</p>
+                      <a href="#" class="btn btn-success text-white text-center addcart">Show Details</a>
+                    </div>
+                  </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div> 
+<!--footer-->
+<section id="contact">
+    <hr class="mt-5"/>
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-4 col-md-6 col-12">
+            <h3 class="fw-bold"><span class="text-success">e</span>Grocery</h3>
+            <div class="d-flex">
+              <a href="#"><i class="fab fa-linkedin"></i></a>
+              <a href="#"><i class="fab fa-facebook"></i></a>
+              <a href="#"><i class="fab fa-instagram"></i></a>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 col-12">
+            <h2 class="fw-bold">Quick Links</h2>
+            <div>
+              <i class="fas fa-arrow-right"></i>
+              <a href="#home" class="links">Home</a>
+            </div>
+           <div>
+            <i class="fas fa-arrow-right"></i>
+            <a href="#categories"class="links">Categories</a>
+           </div>
+            <div>
+              <i class="fas fa-arrow-right"></i>
+              <a href="#products"class="links">Products</a>
+            </div>
+            <div>
+              <i class="fas fa-arrow-right"></i>
+              <a href="#organic"class="links">Oragnic</a>
+            </div>
+            <div>
+              <i class="fas fa-arrow-right"></i>
+              <a href="#offers"class="links">Offers</a>
+            </div>
+            <div>
+              <i class="fas fa-arrow-right"></i>
+              <a href="#contact"class="links">Contact</a>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 col-12">
+            <h2 class="fw-bold">Contact Info</h2>
+            <div class="d-flex mt-3">
+              <i class="fas fa-phone mt-1"></i>
+              <h5 class="ms-3">+91 9983635818.</h5>
+            </div>
+            <div class="d-flex mt-2">
+              <i class="fas fa-envelope mt-2"></i>
+              <h5 class="ms-3">snigdha@gmail.com</h5>
+            </div>
+            <div class="d-flex mt-2">
+              <i class="fas fa-map-marker-alt mt-1"></i>
+              <h5 class="ms-3">AP,India.</h5>
+            </div>
+          </div>
+          <hr/>
+          <p class="text-center">Created by <span class="text-success">Snigdha Bommareddy</span> | All Rights Reserved.</p>
+          </div>
+        </div>
+    </footer>
+  </section> 
+</body>
+</html>

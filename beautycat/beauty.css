@@ -1,0 +1,63 @@
+.logo{
+    width:60px;
+    height:60px;
+}
+.fa-user{
+    font-size: 29px;
+    color:rgb(235, 38, 71);
+    border-radius: 50%;
+}
+.fa-shopping-cart{
+    font-size: 24px;
+    color:rgb(19, 138, 19);
+    border-radius: 50%;
+}
+.navbar-brand{
+    font-size: 30px;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.heading{
+    background-color:rgb(19, 138, 19);
+    color:white;
+    text-align:center;
+    padding:10px 30px;
+    clip-path: polygon(100% 0,93% 50%,100% 99%,0% 100%,7% 50%,0% 0%);
+}
+.sorting{
+    box-shadow: 10px 20px 15px lightgrey ;
+}
+.card-img-top{
+    height:200px;
+}
+.card{
+    box-shadow: 10px 20px 15px lightgrey;
+}
+.addcart{
+    width:100%;
+}
+.fa-linkedin,.fa-facebook,.fa-instagram{
+    font-size: 25px;
+    margin-top:20px;
+    margin-right:20px;
+    color:white;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+.links{
+    font-size: 18px;
+    line-height: 30px;
+    color:white;
+}
+.fa-arrow-right,.fa-phone,.fa-envelope,.fa-map-marker-alt{
+    color:rgb(14, 153, 14);
+}
+#contact{
+    background-color: black;
+    color:white;
+}
+.card:hover,.fa-user:hover,.fa-shopping-cart:hover{
+    transform: scale(1.1);
+}

@@ -6,6 +6,20 @@ body{
     padding:0;
     box-sizing: border-box;
 }
+body{
+    background-color:white;
+    color:black
+}
+.mybody{
+    background-color:black;
+    color:white
+}
+.mode{
+    width:40px;
+    height:40px; 
+    background-color:rgb(155, 155, 155);
+    border-radius: 50%;
+ }
 .logo{
     width:60px;
     height:60px;
@@ -18,11 +32,6 @@ body{
 .fa-shopping-cart{
     font-size: 24px;
     color:rgb(19, 138, 19);
-    border-radius: 50%;
-}
-.fa-search{
-    font-size: 28px;
-    color:rgb(15, 102, 189);
     border-radius: 50%;
 }
 .fa-star,.fa-star-half-alt{
@@ -76,7 +85,7 @@ a{
     background-color: black;
     color:white;
 }
-.card:hover,.imgorganic:hover,.imgoffers:hover,.fa-user:hover,.fa-shopping-cart:hover,.fa-search:hover{
+.card:hover,.imgorganic:hover,.imgoffers:hover,.fa-user:hover,.fa-shopping-cart:hover{
     transform: scale(1.1);
 }
 .card>img:hover{
